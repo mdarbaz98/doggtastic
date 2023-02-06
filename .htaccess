@@ -1,0 +1,38 @@
+RewriteEngine On
+php_flag display_errors 1
+
+RewriteCond %{REQUEST_URI} ^/404/$
+RewriteRule ^(.*)$ /error_redirect.php [L]
+
+
+# RewriteRule ^pets-admin/?$ pets-admin/index.php [NC,L]
+
+RewriteRule ^/?$ index.php [NC,L]
+RewriteRule ^about/?$ about.php [NC,L]
+RewriteRule ^contact/?$ contact.php [NC,L]
+RewriteRule ^cart/?$ cart.php [NC,L]
+RewriteRule ^checkout/?$ checkout.php [NC,L]
+ 
+RewriteRule ^success/?$ thankyou.php?inv_id=$1 [NC,L]
+
+RewriteRule ^payment/([^/\.]+)/?$ curl_index.php?inv_id=$1 [NC,L]
+RewriteRule ^user/?$ user.php [NC,L]
+RewriteRule ^category/([^/\.]+)/?$ shop-grid.php?cat=$1 [NC,L]
+RewriteRule ^([0-9a-zA_Z_-]+)$ productpage.php?pro_name=$1 [NC,L]
+
+
+# ErrorDocument 404 https://example.com/404/
+# ErrorDocument 500 https://example.com/500/
+# or map them to one error document:
+# ErrorDocument 404 /error_redirect.php
+# ErrorDocument 500 /pages/errors/error_redirect.php
+
+RewriteEngine On
+RewriteBase /
+
+
+
+# or map them to one error document:
+#RewriteCond %{REQUEST_URI} ^/404/$ [OR]
+#RewriteCond %{REQUEST_URI} ^/500/$
+#RewriteRule ^(.*)$ /pages/errors/error_redirect.php [L]

@@ -1,0 +1,28 @@
+<?php include('./include/header.php') ?>
+        <!-- Start Page Title Area -->
+        <div class="page-title-area">
+            <div class="container">
+                <div class="page-title-content">
+               
+                </div>
+            </div>
+        </div>
+        <div class="terms-conditions-area pb-5">
+            <div class="container">
+                <div class="about-content">
+                    <h1 style="text-align:center">About Us</h1>
+                <p>At Doggtastic Adventures we want to help every pet parent and their pet, meet all their needs through our innovative products. Our hope is that we can play a meaningful role in bringing pets and their humans closer to each other for years and years to come, and through that build a kinder world.</p>
+                <p>Doggtastic Adventures was created with the ambition to be an ecosystem for pets and pet parenting. While we are still in our fledgling days, we aim to source the best of the products from manufacturers and brands, small or big, and bring them to the loving pet parents across the country.</p>
+                <p>As pet parents, we realise that information on the lifestyle, nutritional and behavioural needs of pets is all across the internet but probably paucity of time is an impediment for pet parents to know what really works best for their pets. So we simply decided: If it’s not good, it’s not on Doggtastic Adventures.</p>
+                <p>Also, we realised that there are quite a few pet loving entrepreneurs across the world reaching out to pet parents is expensive and sometimes good ideas and products get lost in the crowd. We would certainly want these emerging brands to perform well and surely would want to partner with them as long as we share a vision of good quality products.</p>
+                <p>So, we are slowly and steadily building the Doggtastic Adventures on 3 pillars: Fulfilment, Information and Connection with the intent to provide high quality products at affordable prices creating value for you, curated content as per your pet’s breed and age, and ultimately connecting you to the best products facilitate a better lifestyle for your pet.</p>
+                <p>Doggtastic Adventures is the largest online pet store. Doggtastic Adventures is a one stop platform for all your pets' needs. Our team continuously works towards bringing you the latest products and brands. We strive to provide you with a quick and hassle free shopping experience by offering you a wide range of pet products. We have attempted to create a platform with quality products for your pets. We assure our customers of unmatched quality and timely service. The website has been designed to make your experience simple and convenient to buy your products in the least amount and high quality. We constantly thrive to bring convenience and have a transparent system to ship your supplies each month.</p>
+                <p>We have committed ourselves to provide a better and healthier environment for the pets in the country. We feel that pets are an integral part of the family. We view that pets are lovely creatures which integrate and bring the family closer. We provide the products, services and advice that make it easier for our customers to be great pet parents. We are not only about selling pet products and supplies online, but we are also focused on empowering our customers with all the information related to pet products, pet care tips, diseases and symptoms, treatment and medications. Our top priority has been to help more animals live long and happy lives with loving human companions. It's easy browsing category wise to help select the best for your pet, and if what you need is not with us just write back and we will ensure to get it up soon. Doggtastic Adventures not only aims to be the largest and preferred online pet store but also aims to become the most respected, trusted place for pet shopping online.</p>
+                <p>We Doggtastic Adventures came with a vision to make pet parenting hassle free. Getting a pet is like getting a child. They need our care and concern and also all the basic needs. We understand your love towards your pet and also the troubles you face while pet parenting, which made us set up our vision.</p>
+                <p>From new dog chews, toys, yummy treats, nutritious food, accessories, comfy and trendy dog beds, grooming articles, bath, and skin care products, fashionable apparel, shoes and clubbed with unexpected pricing and every day crazy discounts. We just stop at nothing. It doesn't matter which pet you have all that matters is you have a pet and we are at your doorstep whenever you order anything for them.</p>
+                <p>At Doggtastic Adventures, we strive to make it easier for you to get your hands on all the things your pet will love. All the products that you order, we deliver them straight to your door. Our company philosophy is pretty simple: We want to offer the best possible collection of pet products and deals for our customers. Our endeavour is to ensure that you get the widest possible choice of top rated products at the best possible price anywhere in India combined with the best possible service and timely delivery of products at your doorstep.</p>
+                </div>
+            </div>
+        </div>
+        <!-- End Page Title Area -->
+<?php include('./include/footer.php') ?>

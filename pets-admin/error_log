@@ -1,0 +1,32 @@
+[06-Feb-2023 06:51:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'' in /home/vxctoutc/public_html/pets-admin/home.php:76
+Stack trace:
+#0 /home/vxctoutc/public_html/pets-admin/home.php(76): PDOStatement->execute()
+#1 {main}
+  thrown in /home/vxctoutc/public_html/pets-admin/home.php on line 76
+[06-Feb-2023 06:51:46 UTC] PHP Parse error:  syntax error, unexpected 'are' (T_STRING) in /home/vxctoutc/public_html/pets-admin/category_listing.php on line 81
+[06-Feb-2023 06:54:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'' in /home/vxctoutc/public_html/pets-admin/home.php:76
+Stack trace:
+#0 /home/vxctoutc/public_html/pets-admin/home.php(76): PDOStatement->execute()
+#1 {main}
+  thrown in /home/vxctoutc/public_html/pets-admin/home.php on line 76
+[06-Feb-2023 06:57:36 UTC] PHP Parse error:  syntax error, unexpected 'are' (T_STRING) in /home/vxctoutc/public_html/pets-admin/category_listing.php on line 81
+[06-Feb-2023 07:03:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vxctoutc_doggtastic.category' doesn't exist' in /home/vxctoutc/public_html/pets-admin/enquiry_listing.php:58
+Stack trace:
+#0 /home/vxctoutc/public_html/pets-admin/enquiry_listing.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/vxctoutc/public_html/pets-admin/enquiry_listing.php on line 58
+[06-Feb-2023 07:09:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vxctoutc_doggtastic.category' doesn't exist' in /home/vxctoutc/public_html/pets-admin/enquiry_listing.php:58
+Stack trace:
+#0 /home/vxctoutc/public_html/pets-admin/enquiry_listing.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/vxctoutc/public_html/pets-admin/enquiry_listing.php on line 58
+[06-Feb-2023 07:09:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vxctoutc_doggtastic.category' doesn't exist' in /home/vxctoutc/public_html/pets-admin/enquiry_listing.php:58
+Stack trace:
+#0 /home/vxctoutc/public_html/pets-admin/enquiry_listing.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/vxctoutc/public_html/pets-admin/enquiry_listing.php on line 58
+[06-Feb-2023 07:49:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'vxctoutc_doggtastic.category' doesn't exist' in /home/vxctoutc/public_html/pets-admin/enquiry_listing.php:58
+Stack trace:
+#0 /home/vxctoutc/public_html/pets-admin/enquiry_listing.php(58): PDOStatement->execute()
+#1 {main}
+  thrown in /home/vxctoutc/public_html/pets-admin/enquiry_listing.php on line 58
