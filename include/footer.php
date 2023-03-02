@@ -565,7 +565,7 @@ messages: {
             name: " Enter Name",
             email: "Enter Email Name",
             phone_number: "Enter Mobile Number",
-            msg_subject: "Enter Subject"
+            msg_subject: "Enter Subject",
             message:"Enter Your Query"
 },
     submitHandler: function (form) {
