@@ -5,7 +5,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
                             <a href="index.php" class="logo">
-                                <img src="assets/img/logo/LOGO-footer.png" width="170" height="60" alt="logo">
+                                <img src="assets/img/logo/New-LOGO-1-Size-80-X-63.png" width="170" height="60" alt="logo">
                             </a>
                             <ul class="footer-contact-info">
                                 <li><span>Customer Support:</span> <a href="tel:+14158003867">+1415-800-3867</a></li>
