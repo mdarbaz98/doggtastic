@@ -121,7 +121,7 @@ while ($pro_data = $stmt->fetchAll(PDO::FETCH_ASSOC)) {
             <div class="container">
                 <div class="patoi-responsive-menu">
                     <div class="logo">
-                        <a href="/"><img class="logoimg" src="assets/img/logo/New-LOGO-1-Size-80-X-63.png"></img></a>
+                        <a href="/"><img class="logoimg" src="assets/img/logo/LOGO.svg"></img></a>
                     </div>
                     <div class="quick-links">
                         <ul class="gap-4 mobile-quick-links-ul">
